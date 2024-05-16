@@ -1,5 +1,7 @@
 # MapProject
 
+-Faculty Project-
+
 Problem’s statements
 
 Suppose two friends live in different cities on a map, such as the Romania map shown below. On every turn, we can simultaneously move each friend to a neighboring city on the map. The amount of time  needed to move from city I to neighbor j is equal to the road distance d(I,j) between the cities, but on each turn the friend that arrives first must wait until the other one arrives before the next turn can begin. We want the two friends to meet as quickly as possible.
